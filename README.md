@@ -20,7 +20,7 @@ Squat Tracker is a Python-based application that uses MediaPipe and OpenCV to de
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/squat_tracker.git
+   https://github.com/kabradhruv/OpenCV-Live-Squats-Trainer.git
    cd squat_tracker
    ```
 2. **Install dependencies:**
