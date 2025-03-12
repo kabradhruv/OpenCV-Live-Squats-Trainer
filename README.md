@@ -1,6 +1,6 @@
 # Squat Tracker
 
-Squat Tracker is a Python-based application that uses MediaPipe and OpenCV to detect squats in real time. It provides live feedback on your form, counts repetitions, and is capable of processing both webcam feeds and video file inputs.
+Squat Tracker is a Python application that verify if you are doing the exercise in correct form and counts the rep live , it leverages MediaPipe and OpenCV to detect squats in real time. It processes video input from a webcam or file, analyzes body landmarks to calculate knee angles, count reps, and deliver live feedback on form.
 
 ## Features
 
